@@ -1,0 +1,68 @@
+.w-full {
+  width: 100%;
+}
+
+@font-face {
+  font-family: 'deyihei';
+  src: url(./assets/fonts/得意黑.otf);
+}
+@font-face {
+  font-family: 'hutu';
+  src: url(./assets/fonts/PF频凡胡涂体.otf);
+}
+
+@font-face {
+  font-family: 'hanchan';
+  src: url(./assets/fonts/寒蝉点阵体.ttf);
+}
+
+@font-face {
+  font-family: 'pangmen';
+  src: url(./assets/fonts/庞门正道细线体.ttf);
+}
+
+@font-face {
+  font-family: 'pangpang';
+  src: url(./assets/fonts/胖胖猪肉体.otf);
+}
+
+@font-face {
+  font-family: 'bifeng';
+  src: url(./assets/fonts/千图笔锋手写体.ttf);
+}
+
+@font-face {
+  font-family: 'fengyuan';
+  src: url(./assets/fonts/TaiwanPearl-Light.ttf);
+}
+
+@font-face {
+  font-family: 'yinxiong';
+  src: url(./assets/fonts/英椎行书.ttf);
+}
+
+@font-face {
+  font-family: 'ximai';
+  src: url(./assets/fonts/字制区喜脉体.ttf);
+}
+
+@font-face {
+  font-family: 'harmony';
+  src: url(./assets/fonts/HarmonyOS_Sans_SC_Medium.ttf);
+}
+@font-face {
+  font-family: 'en_ddin';
+  src: url(./assets/fonts/D-DIN-PRO-500-Medium.otf);
+}
+
+@font-face {
+  font-family: 'en_harmony';
+  src: url(./assets/fonts/HarmonyOS_Sans_Condensed_Medium_Italic.ttf);
+}
+
+@font-face {
+  font-family: 'en_krone';
+  src: url(./assets/fonts/KronaOne.ttf);
+}
+
+

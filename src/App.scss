@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media screen  {
+  
+}
+
+@media screen and (min-width: 1400px) {
+  .sa-container {
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+  }
+
+  .setting {
+
+    margin-top: 10px;
+    /* margin: 20px 100px; */
+    /* height: calc(100vh - 240px); */
+  }
+  .setting-left {
+
+    padding: 30px;
+  }
+
+  .setting-right {
+
+    /* width: 23%; */
+    width: 400px;
+    min-width: 300px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1399px) { 
+  .setting {
+
+    /* margin: 10px 40px; */
+    /* height: calc(100vh - 240px); */
+  }
+
+
+  .setting-left {
+
+    padding: 30px;
+  }
+
+  .setting-right {
+
+    /* width: 23%; */
+    width: 400px;
+    min-width: 300px;
+  }
+}
+
+@media screen and (max-width: 999px) { 
+  .setting {
+
+    /* margin: 10px 40px; */
+    /* height: calc(100vh - 240px); */
+  }
+
+
+  .setting-left {
+
+    padding: 30px;
+  }
+
+  .setting-right {
+
+    /* width: 23%; */
+    width: 400px;
+    min-width: 300px;
+  }
+}
+
+
+.sa-container {
+  margin: 0 auto;
+  width: 85%;
+  padding: 10px;
+  overflow: hidden;
+  max-width: 2000px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.ant-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.ant-footer {
+  padding: 17px 50px;
+  text-align: center;
+  color: #999999;
+  background-color: #fff;
+}
+
+
+.ant-collapse-item {
+  .ant-collapse-header {
+    .ant-collapse-header-text {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+  }
+}
